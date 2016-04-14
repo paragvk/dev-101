@@ -1,11 +1,30 @@
 # DEV 101
 
-# Project 1 - Simple project with log4j
+# Prerequisites
 
-# Project 2 - Log4j using Maven
+1. Eclipse
+2. JDK 7+
+3. Maven 3+
+4. Tomcat 7+
 
-# Project 3 - Simple Spring project (IOC)
+Setup JDK and Maven in Eclipse
 
-# Project 4 - Spring/Log4j with Maven
+# Project 1
 
-# Project 5 - Simple Web app using Maven (JSP and Servlet)
+Simple project with log4j
+
+# Project 2
+
+Log4j using Maven
+
+# Project 3
+
+Simple Spring project (IOC)
+
+# Project 4
+
+Spring/Log4j with Maven
+
+# Project 5
+
+Simple Web app using Maven (JSP and Servlet)
