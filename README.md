@@ -7,7 +7,7 @@
 3. Maven 3+
 4. Tomcat 7+
 
-Setup JDK and Maven in Eclipse
+Setup JDK and Maven in Eclipse. To download project - Fork dev-101 and git clone.
 
 # Project 1
 
