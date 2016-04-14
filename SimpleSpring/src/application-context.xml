@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	   					   http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="redCar" class="com.example.domain.CarItem">
+		<property name="model" value="Altima" />
+		<property name="make" value="Nissan" />
+		<property name="year" value="2005" />
+		<property name="color" value="red" />
+	</bean>
+
+	<bean id="blackCar" class="com.example.domain.CarItem">
+		<property name="model" value="530i" />
+		<property name="make" value="BMW" />
+		<property name="year" value="2016" />
+		<property name="color" value="black" />
+	</bean>
+
+	<bean id="coolCar" class="com.example.domain.CarItem">
+		<property name="model" value="Model3" />
+		<property name="make" value="Tesla" />
+		<property name="year" value="2017" />
+		<property name="color" value="candy-red" />
+	</bean>
+
+</beans>
