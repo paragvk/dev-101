@@ -2,10 +2,11 @@
 
 # Prerequisites
 
-1. Eclipse
-2. JDK 7+
-3. Maven 3+
-4. Tomcat 7+
+1. Git
+2. Eclipse
+3. JDK 7+
+4. Maven 3+
+5. Tomcat 7+
 
 Setup JDK and Maven in Eclipse. To download project - Fork dev-101 and git clone.
 
