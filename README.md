@@ -2,10 +2,11 @@
 
 # Prerequisites
 
-1. Eclipse
-2. JDK 7+
-3. Maven 3+
-4. Tomcat 7+
+1. Git
+2. Eclipse
+3. JDK 7+
+4. Maven 3+
+5. Tomcat 7+
 
 Setup JDK and Maven in Eclipse. To download project - Fork dev-101 and git clone.
 
@@ -32,3 +33,13 @@ Simple Web app using Maven (JSP and Servlet)
 # Project 6
 
 Simple Spring MVC (using JSP as template engine)
+
+Note: When running in Eclipse you may need to add the "Maven Dependency" in the Deployment Assembly (if you see ClassNotFound errors on startup)
+* right click on your project and choose properties.
+* click on Deployment Assembly.
+* click add
+* click on "Java Build Path Entries"
+* select Maven Dependencies"
+* click Finish.
+Rebuild and deploy again
+
