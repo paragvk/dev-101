@@ -28,3 +28,7 @@ Spring/Log4j with Maven
 # Project 5
 
 Simple Web app using Maven (JSP and Servlet)
+
+# Project 6
+
+Simple Spring MVC (using JSP as template engine)
