@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 public class MyController {
 
+    /*
+     * By default, the view will be resolved by using prefix '/templates/' and
+     * suffix '.html'
+     */
     @RequestMapping("/greeting")
     public String greeting(@RequestParam(value = "name", required = false, defaultValue = "World") String name, Model model) {
         model.addAttribute("name", name);
