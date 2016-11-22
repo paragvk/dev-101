@@ -67,3 +67,13 @@ Goodies:
 * Very small POM getting rid of necessity to maintain many dependencies and respective versions
 * All customization is done in single file `application.properties`. See [Appendix](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html) for further customization.
 * Many more ..  
+
+# Project 8
+
+Struts2 Hello World
+
+To run in Eclipse, Run As > Run on Server > Tomcat
+This project also demostrates how a model can be injected in view using Action class.
+
+
+
